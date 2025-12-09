@@ -1,1 +1,1 @@
-Text for conflict.
+
